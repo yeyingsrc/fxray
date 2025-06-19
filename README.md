@@ -6,7 +6,7 @@
 
 # 命令参数
 ```
--h xxx.txt
+-f xxx.txt
 ```
 config里面需要配置文件路径以及端口范围，最后会以当前时间戳生成文件夹
 ![image](https://github.com/user-attachments/assets/fe92b188-a3d0-44bf-bdcd-8f9e7523f9c5)
